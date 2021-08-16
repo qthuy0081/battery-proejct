@@ -1,0 +1,16 @@
+{
+  "name": "be_battery_prediction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/pubsub": "^2.16.1",
+    "@google-cloud/storage": "^5.8.5",
+    "websocket": "^1.0.34"
+  }
+}
